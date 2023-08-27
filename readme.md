@@ -1,5 +1,5 @@
 # Cowlar SQA Task Huma Nadir
-## To run task1 follow these commands
+## To run tasks follow these commands
 1. npx cypress open --e2e --browser chrome
 2. You will be redirected to chrome
 3. Click on Specs
